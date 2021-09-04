@@ -1,0 +1,82 @@
+body {
+    background-color: #15DBE8 !important
+}
+
+.seccion-1 {
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 100px;
+}
+
+.navbar .navbar-brand {
+    font-size: 22px;
+    color: #040EF4 !important;
+}
+
+.navbar a {
+    color: rgb(255, 0, 191);
+}
+
+.texto-intro {
+    padding-top: 90px;
+}
+
+.titulo-video {
+    color: black;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.col-sm {
+    font-size: 20px;
+}
+
+.logo {
+    width: 461.17px;
+    height: 548.1px;
+    left: 835px;
+    top: 169.25px;
+    border-radius: 103px;
+    transform: rotate(-3.64deg);
+}
+
+button {
+    border-radius: 30px !important;
+    font-size: 18px !important;
+}
+
+.btn-primary {
+    background-color: #F2F521 !important;
+    color: black !important;
+    padding: 15px 28px !important;
+    border: none !important;
+}
+
+.btn-outline-primary {
+    border-color: white !important;
+    color: black !important;
+    padding: 13px 21px !important;
+}
+
+footer {
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+}
+
+footer i {
+    color: black;
+    background: white;
+    padding: 5px;
+    border-radius: 70px;
+    width: 28px;
+    height: 28px;
+    margin: 20px;
+    font-size: 80px;
+}
+
+footer span {
+    color: white;
+    display: block;
+}
