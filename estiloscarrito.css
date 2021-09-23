@@ -1,0 +1,117 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/fondoconcha.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.seccion-1 {
+    background-image: url(img/mar.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 100px;
+}
+
+.navbar .navbar-brand {
+    font-size: 22px;
+    color: #040EF4 !important;
+}
+
+.navbar a {
+    color: #ff00bf;
+}
+h1 {
+    font-family: Tempus Sans ITC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 63px;
+    text-align: center;
+    color: #000000;
+}
+.col-sm {
+    font-size: 20px;
+}
+.detalles-compra {
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: Tempus Sans ITC;
+    color: black;
+    background: rgb(83, 228, 148);
+}
+
+.detalles-compra h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.detalles-envio {
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: Tempus Sans ITC;
+    color: black;
+    background: #53e494;
+}
+
+.detalles-envio h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.controles {
+    width: 100px;
+    background: #24303c;
+    border-radius: 4px;
+    margin-bottom: 26px 26px;
+    border: 1px solid #1f53c5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 34px;
+}
+
+.boton {
+    background-color: #604b9b;
+    border: none;
+    color: black;
+    padding: 15px;
+    text-align: unset;
+    font-size: 10px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+footer {
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+}
+
+footer i {
+    color: black;
+    background: white;
+    padding: 5px;
+    border-radius: 70px;
+    width: 28px;
+    height: 28px;
+    margin: 20px;
+    font-size: 80px;
+}
+
+footer span {
+    color: white;
+    display: block;
+}
